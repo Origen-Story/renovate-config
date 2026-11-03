@@ -1,0 +1,5 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": ["Origen-Story repos use the shared policy from indieglo/renovate-config."],
+  "extends": ["github>indieglo/renovate-config"]
+}
